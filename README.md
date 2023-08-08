@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## Deployed Link : 
+## Deployed Link : https://64d1f0eec1cfab3b05bc6983--papaya-bombolone-7a2104.netlify.app/
 ## Description 
 Generate images with Hugging Face API’s stable-diffusion-v1-5 model
 
