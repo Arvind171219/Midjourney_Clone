@@ -1,10 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Deployed Link : 
+## Description 
+Generate images with Hugging Face API’s stable-diffusion-v1-5 model
 
-## Available Scripts
-
-In the project directory, you can run:
+Customize the images with text and background color Build a user-friendly AI Image Generator from scratch
+## Hugging Face: https://huggingface.co/models
 
 ### `npm start`
 
